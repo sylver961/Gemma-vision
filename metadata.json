@@ -1,0 +1,6 @@
+{
+  "name": "Gemma-Eyes - Vision Assistant",
+  "description": "Multimodal vision reasoning assistant for visually impaired users with real-time camera analysis, safety obstacle alerts, OCR, voice control, function calling, and Be My Eyes support.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
